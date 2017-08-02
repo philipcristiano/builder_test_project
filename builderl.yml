@@ -1,0 +1,7 @@
+environment:
+    FOO: Blah
+
+stages:
+  - name: test
+    steps:
+      - echo 'Hello World!'
