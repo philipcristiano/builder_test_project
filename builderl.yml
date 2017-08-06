@@ -1,5 +1,6 @@
 environment:
     FOO: Blah
+    PATH: /bin
 
 stages:
   - name: test
